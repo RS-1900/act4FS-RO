@@ -1,0 +1,16 @@
+[
+  {
+    "name": "papas edit",
+    "price": 15,
+    "stock": 500,
+    "_id": "69913a58122e3256a70cbae7",
+    "__v": 0
+  },
+  {
+    "name": "papassks",
+    "price": 2000,
+    "stock": 83,
+    "_id": "69913b51122e3256a70cbaef",
+    "__v": 0
+  }
+]

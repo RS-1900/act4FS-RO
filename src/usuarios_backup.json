@@ -1,0 +1,44 @@
+[
+  {
+    "id_mongo": "69912538d430ec938686c9c6",
+    "username": "pepetest",
+    "role": "admin",
+    "fecha_registro": "2026-02-15T01:45:28.188Z"
+  },
+  {
+    "id_mongo": "69912725b8f798a67e28d0fc",
+    "username": "papurri",
+    "role": "admin",
+    "fecha_registro": "2026-02-15T01:53:41.811Z"
+  },
+  {
+    "id_mongo": "699137cc122e3256a70cbad0",
+    "username": "peUsuario",
+    "role": "user",
+    "fecha_registro": "2026-02-15T03:04:44.387Z"
+  },
+  {
+    "id_mongo": "6991396b122e3256a70cbadd",
+    "username": "adminPAPU",
+    "role": "admin",
+    "fecha_registro": "2026-02-15T03:11:39.986Z"
+  },
+  {
+    "id_mongo": "69913b04122e3256a70cbaeb",
+    "username": "admin200000",
+    "role": "admin",
+    "fecha_registro": "2026-02-15T03:18:28.318Z"
+  },
+  {
+    "id_mongo": "69913c04122e3256a70cbaf3",
+    "username": "pruebaUsuarioAdmin",
+    "role": "admin",
+    "fecha_registro": "2026-02-15T03:22:44.666Z"
+  },
+  {
+    "id_mongo": "69913ce2122e3256a70cbafb",
+    "username": "USUARIONORMAL2",
+    "role": "user",
+    "fecha_registro": "2026-02-15T03:26:26.410Z"
+  }
+]
