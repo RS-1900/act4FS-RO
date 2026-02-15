@@ -12,7 +12,7 @@ const User = require('./models/User');
 
 const app = express();
 const PORT = 3000;
-const SECRET_KEY = 'contrasecreta6666'; // Tu clave fija
+const SECRET_KEY = 'contrasecreta6666';
 
 app.use(express.json());
 
